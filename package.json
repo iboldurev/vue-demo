@@ -2,6 +2,11 @@
   "name": "laravel-demo-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.1.x",
+    "node": "8.11.x",
+    "yarn": "1.7.x"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
